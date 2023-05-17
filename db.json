@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Naveen",
+      "email": "vijay@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Raghav",
+      "email": "vijay@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Vijay",
+      "email": "vijay@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Anand",
+      "email": "raghavendra6c@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Baskar",
+      "email": "b@gmail.com"
+    },
+    {
+      "id": 6,
+      "name": "Bhaskar",
+      "email": "b@gmail.com"
+    }
+  ]
+}
