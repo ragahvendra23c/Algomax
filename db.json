@@ -2,33 +2,33 @@
   "users": [
     {
       "id": 1,
-      "name": "Naveen",
-      "email": "vijay@gmail.com"
+      "title": "Front end",
+      "description": "we are learning front end",
+      "date": "2023-05-18"
     },
     {
       "id": 2,
-      "name": "Raghav",
-      "email": "vijay@gmail.com"
+      "title": "CSS",
+      "description": "we are learning React JS",
+      "date": "2023-05-03"
     },
     {
       "id": 3,
-      "name": "Vijay",
-      "email": "vijay@gmail.com"
+      "title": "PHP",
+      "description": "leraning PHP",
+      "date": "2023-05-20"
     },
     {
       "id": 4,
-      "name": "Anand",
-      "email": "raghavendra6c@gmail.com"
+      "title": "react",
+      "description": "learning raect js",
+      "date": "2023-05-30"
     },
     {
       "id": 5,
-      "name": "Baskar",
-      "email": "b@gmail.com"
-    },
-    {
-      "id": 6,
-      "name": "Bhaskar",
-      "email": "b@gmail.com"
+      "title": "python",
+      "description": "learning python",
+      "date": "2023-05-04"
     }
   ]
 }
