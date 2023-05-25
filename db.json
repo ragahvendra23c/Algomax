@@ -2,13 +2,13 @@
   {
     "id": 1,
     "name": "Raghav",
-    "totalmarks": "680",
+    "marks": "680",
     "mobile": "9025741101"
   },
   {
     "id": 2,
     "name": "Veena",
-    "totalmarks": "680",
+    "marks": "680",
     "mobile": "8753487478"
   }
 ]
