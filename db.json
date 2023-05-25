@@ -1,29 +1,74 @@
-{
-  "student": [
-    {
-      "id": 1,
-      "name": "Raghav",
-      "totalmarks":680,
-      "mobile": 9025741101
-    },
-    {
-      "id": 2,
-      "name": "Veena",
-      "totalmarks":680,
-      "mobile": 8753487478
-    },
-   {
-      "id": 3,
-      "name": "Madhu",
-      "totalmarks":680,
-      "mobile": 7867534246
-    },
-{
-      "id": 4,
-      "name": "Vijay",
-      "totalmarks":680,
-      "mobile": 987654321
-    }
-    
-  ]
-}
+[
+  {
+    "id": 1,
+    "name": "Raghav",
+    "totalmarks": "680",
+    "mobile": "9025741101"
+  },
+  {
+    "id": 2,
+    "name": "Veena",
+    "totalmarks": "680",
+    "mobile": "8753487478"
+  },
+  {
+    "id": 3,
+    "name": "Madhu",
+    "totalmarks": "680",
+    "mobile": "7867534246"
+  },
+  {
+    "id": 4,
+    "name": "Vijay",
+    "totalmarks": "680",
+    "mobile": "987654321"
+  },
+  {
+    "id": 5,
+    "name": "Byra",
+    "totalMarks": "987",
+    "mobile": "87935753"
+  },
+  {
+    "id": 6,
+    "name": "Moorthy",
+    "totalMarks": "789",
+    "mobile": "9876543567"
+  },
+  {
+    "id": 7,
+    "name": "Bhaskar",
+    "totalMarks": "1023",
+    "mobile": "7983048484"
+  },
+  {
+    "id": 8,
+    "name": "Adhi",
+    "totalMarks": "890",
+    "mobile": "934734783"
+  },
+  {
+    "id": 9,
+    "name": "abc",
+    "totalMarks": "678",
+    "mobile": "99876543"
+  },
+  {
+    "id": 10,
+    "name": "xyz",
+    "totalMarks": "123",
+    "mobile": "987654321"
+  },
+  {
+    "id": 11,
+    "name": "Prashanth",
+    "totalMarks": "987",
+    "mobile": "9876543"
+  },
+  {
+    "id": 12,
+    "name": "mani",
+    "totalMarks": "987",
+    "mobile": "987654321"
+  }
+]
