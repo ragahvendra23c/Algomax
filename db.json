@@ -1,34 +1,29 @@
 {
-  "users": [
+  "student": [
     {
       "id": 1,
-      "title": "Front end",
-      "description": "we are learning front end",
-      "date": "2023-05-18"
+      "name": "Raghav",
+      "totalmarks":680,
+      "mobile": 9025741101
     },
     {
       "id": 2,
-      "title": "CSS",
-      "description": "we are learning React JS",
-      "date": "2023-05-03"
+      "name": "Veena",
+      "totalmarks":680,
+      "mobile": 8753487478
     },
-    {
+   {
       "id": 3,
-      "title": "PHP",
-      "description": "leraning PHP",
-      "date": "2023-05-20"
+      "name": "Madhu",
+      "totalmarks":680,
+      "mobile": 7867534246
     },
-    {
+{
       "id": 4,
-      "title": "react",
-      "description": "learning raect js",
-      "date": "2023-05-30"
-    },
-    {
-      "id": 5,
-      "title": "python",
-      "description": "learning python",
-      "date": "2023-05-04"
+      "name": "Vijay",
+      "totalmarks":680,
+      "mobile": 987654321
     }
+    
   ]
 }
