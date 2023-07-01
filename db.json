@@ -1,112 +1,13 @@
 { 
   "student":[
-  {
-    "id": 1,
-    "name": "Raghav",
-    "totalmarks": "680",
-    "mobile": "9025741101"
-  },
-  {
-    "id": 2,
-    "name": "Veena",
-    "totalmarks": "680",
-    "mobile": "8753487478"
-  },
-    {
-    "id": 3,
-    "name": "Raghav",
-    "totalmarks": 680,
-    "mobile": 9025741101
-  },
-  {
-    "id": 4,
-    "name": "Veena",
-    "totalmarks": 680,
-    "mobile": 8753487478
-  },
-  {
-    "id": 5,
-    "name": "Madhu",
-    "totalmarks": 680,
-    "mobile": 7867534246
-  },
-  {
-    "id": 6,
-    "name": "Vijay",
-    "totalmarks": 680,
-    "mobile": 987654321
-  },
-    {
-    "id": 7,
-    "name": "Raghav",
-    "totalmarks": 680,
-    "mobile": 9025741101
-  },
-  {
-    "id": 8,
-    "name": "Veena",
-    "totalmarks": 680,
-    "mobile": 8753487478
-  },
-  {
-    "id": 9,
-    "name": "Madhu",
-    "totalmarks": 680,
-    "mobile": 7867534246
-  },
-  {
-    "id": 10,
-    "name": "Vijay",
-    "totalmarks": 680,
-    "mobile": 987654321
-  },
 {
-    "id": 11,
-    "name": "Raghav",
-    "totalmarks": 680,
-    "mobile": 9025741101
-  },
-  {
-    "id": 12,
-    "name": "Veena",
-    "totalmarks": 680,
-    "mobile": 8753487478
-  },
-  {
-    "id": 13,
-    "name": "Madhu",
-    "totalmarks": 680,
-    "mobile": 7867534246
-  },
-  {
-    "id": 14,
-    "name": "Vijay",
-    "totalmarks": 680,
-    "mobile": 987654321
-  },
-    {
-    "id": 15,
-    "name": "Raghav",
-    "totalmarks": 680,
-    "mobile": 9025741101
-  },
-  {
-    "id": 16,
-    "name": "Veena",
-    "totalmarks": 680,
-    "mobile": 8753487478
-  },
-  {
-    "id": 17,
-    "name": "Madhu",
-    "totalmarks": 680,
-    "mobile": 7867534246
-  },
-  {
-    "id": 18,
-    "name": "Vijay",
-    "totalmarks": 680,
-    "mobile": 987654321
+    "id": 1,
+    "Name": "Moorthy",
+    "Email": "moorthy@gmail.com",
+    "Mobile": "98765432",
+    "Course": "Python",
+    "Description": "intrested to learn Python"
   }
+
 ]
 }
